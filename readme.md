@@ -14,10 +14,10 @@ data is never lost when the program closes.
 - Data persists between sessions using CSV
 
 ## What I learned building this
-- Object Oriented Programming — Contact class with methods
-- File handling — reading and writing CSV files
-- Error handling — try/except for missing files
-- List comprehensions — for searching and filtering contacts
+- Object Oriented Programming Contact class with methods
+- File handling reading and writing CSV files
+- Error handling try/except for missing files
+- List comprehensions for searching and filtering contacts
 - Building a complete command line application from scratch
 
 ## How to run
