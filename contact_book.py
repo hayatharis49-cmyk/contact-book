@@ -1,9 +1,8 @@
-# ============================================
+
 # Contact Book
 # Author: Haris
-# Description: A command line contact manager
-#              that saves contacts to a CSV file
-# ============================================
+# Description: A command line contact manager that saves contacts to a CSV file
+
 
 import csv
 import os 
